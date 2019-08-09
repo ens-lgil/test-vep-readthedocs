@@ -5,8 +5,8 @@
 
 .. Have a look at https://raw.githubusercontent.com/rtfd/readthedocs.org/master/docs/index.rst for inspiration
 
-Welcome to the eHive user manual
-================================
+Welcome to the Ensembl VEP user manual
+======================================
 
 This manual describes how to install and run, Ensembl VEP.
 
