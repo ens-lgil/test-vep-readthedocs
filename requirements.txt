@@ -1,1 +1,5 @@
 sphinxcontrib-doxylink==1.3
+
+# Require installation of:
+# - sphinx_rtd_theme
+# - recommonmark
